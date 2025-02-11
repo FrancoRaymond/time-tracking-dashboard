@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 body{
+    font-family: "Rubik", serif;
     box-sizing: border-box;
     background-color: hsl(226, 43%, 10%);
     @apply md:flex md:items-center md:justify-center md:min-h-screen;
